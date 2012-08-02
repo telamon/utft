@@ -12,3 +12,10 @@ http://henningkarlsen.com/electronics/library.php?id=51
 I (Tony Ivanov) will be trying to adapt this library to work with Arudino Leonardo,
 unless someone beats me to it.
 Please refer to this post for more info: http://www.tonyivanov.se/posts/124
+
+# UPDATE
+I did it! Leonardo now supported!
+Use this line to initialize UTFT with leonardo control pins:
+
+    UTFT myGLCD(ITDB28,A5,A4,A3,A2); // Arduino Leonardo
+
