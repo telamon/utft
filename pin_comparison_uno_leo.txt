@@ -1,0 +1,10 @@
+Pin TFT   Leo   Uno
+-------------------
+D0  DB8   PD2   PD0
+D1  DB9   PD3   PD1
+D2  DB10  PD1   PD2
+D3  DB11  PD0   PD3
+D4  DB12  PD4   PD4
+D5  DB13  PC6   PD5
+D6  DB14  PD7   PD6
+D7  DB15  PE6   PD7
