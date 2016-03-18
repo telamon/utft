@@ -3,7 +3,7 @@
 According by a mail from the original Author he has already applied my patch and asked me to delete my 
 repository. Cool!
 
-Anyways head over to his page to see if it solves your needs Leonardo/UTFT needs. ( Also it would be cool if he would kindly start using github himself in order to avoid any future confusions ) 
+Anyways head over to his page to see if it solves your Leonardo/UTFT needs. ( Also it would be cool if he would kindly start using github himself in order to avoid any future confusions ) 
 
 
 ## UTFT - Library
